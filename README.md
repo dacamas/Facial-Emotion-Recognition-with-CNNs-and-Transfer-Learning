@@ -1,0 +1,2 @@
+# Facial-Emotion-Recognition-with-CNNs-and-Transfer-Learning
+Developed a facial emotion recognition system using deep learning and transfer learning. Benchmarked a custom CNN against ResNet50 and EfficientNet-B0 on the FER2013 dataset. The final EfficientNet-B0 model achieved 68.2% test accuracy and 67.0% macro F1-score, outperforming the custom baseline CNN by over 16 percentage points in accuracy.
